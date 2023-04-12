@@ -1,2 +1,2 @@
 # PREPCOURSEHENRY-README
-1er repositorio Github
+Cómo clonar repositorio desde Github
